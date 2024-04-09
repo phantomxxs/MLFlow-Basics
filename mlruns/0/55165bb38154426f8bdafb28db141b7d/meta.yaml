@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Olatunji/Desktop/My%20Dev%20Journey/ML/MLFLOW-TEST/mlruns/0/55165bb38154426f8bdafb28db141b7d/artifacts
+end_time: 1712671693453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55165bb38154426f8bdafb28db141b7d
+run_name: dashing-mink-625
+run_uuid: 55165bb38154426f8bdafb28db141b7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712671689767
+status: 3
+tags: []
+user_id: Olatunji

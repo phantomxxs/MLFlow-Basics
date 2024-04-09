@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Olatunji/Desktop/My%20Dev%20Journey/ML/MLFLOW-TEST/mlruns/0/2fe58760684e4c44ae10ad81e229f018/artifacts
+end_time: 1712671905295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fe58760684e4c44ae10ad81e229f018
+run_name: clean-quail-367
+run_uuid: 2fe58760684e4c44ae10ad81e229f018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712671901258
+status: 3
+tags: []
+user_id: Olatunji

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Olatunji/Desktop/My%20Dev%20Journey/ML/MLFLOW-TEST/mlruns/0/1bbf3acdb4b643a6a4fd3aad66ffcf51/artifacts
+end_time: 1712670264953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bbf3acdb4b643a6a4fd3aad66ffcf51
+run_name: youthful-slug-647
+run_uuid: 1bbf3acdb4b643a6a4fd3aad66ffcf51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712670260424
+status: 3
+tags: []
+user_id: Olatunji
